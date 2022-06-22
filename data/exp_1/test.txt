@@ -1,0 +1,9 @@
+#Number of Layers. For each layer incidence matrix and vertices name with weights
+2 
+../data_test/exp_team_football/ver_l1.pickle
+../data_test/exp_team_football/ver_l2.pickle
+1 1 ../data_test/exp_team_football/SocialNetwork.pickle
+2 2 ../data_test/exp_team_football/GameLinks.pickle
+
+
+
