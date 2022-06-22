@@ -269,12 +269,12 @@ if __name__ == '__main__':
     # cc.min_scores()
     
     #Example Florentine
-    #cc_florentine=Corner_Centrality("../data/Florentine_Family/",'config.txt') 
-    #cc_florentine.set_target_layer(0)
-    #cc_florentine.getscore(True)
-    #cc_florentine.set_target_layer(1)
-    #cc_florentine.getscore(True)
-    # cc_florentine.min_scores()
+    cc_florentine=Corner_Centrality("../data/Florentine_Family/",'config.txt') 
+    cc_florentine.set_target_layer(0)
+    cc_florentine.getscore(True)
+    cc_florentine.set_target_layer(1)
+    cc_florentine.getscore(True)
+    cc_florentine.min_scores()
 
     #Example in Author Keyword KeyWordsPlus keywrords multilayer network with interlinks
     #cc_ak=Corner_Centrality("../data/exp_3/",'config.txt') 
