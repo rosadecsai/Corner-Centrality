@@ -1,0 +1,5 @@
+Examples of multilayer network.-
+  Florentine Family: Florentine_Family folder
+  Football Team: exp_1 folder
+  AK_KP network: exp_3 folder
+  
