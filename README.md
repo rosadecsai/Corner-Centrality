@@ -10,4 +10,3 @@ This code is associated to the paper:
 "Corner Centrality of Nodes in Multilayer Networks: A study case in network analysis of keywords.
 Jorge Chamorro-Padial Rosa Rodriguez-Sánchez" 
 
-*
