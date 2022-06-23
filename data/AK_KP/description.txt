@@ -1,0 +1,4 @@
+Subnetworks from the multilayer networks of author's keywords (AK) and KeyWords Plus keywords ( KP from Web of Knowlege). 
+Every directory is named AK_KP_<n_nodes>_<id> where :
+* <n_nodes>: is the number of nodes in the layers of AK and kP
+* <id>: idenrificator of the subnetwork for a number of nodes.
