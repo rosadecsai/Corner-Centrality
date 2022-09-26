@@ -9,5 +9,5 @@ The fundamental steps of this new measure are:
 This code is associated to the paper: 
 "Corner Centrality of Nodes in Multilayer Networks: A study case in network analysis of keywords.
 Jorge Chamorro-Padial Rosa Rodriguez-Sánchez" 
-## Reference
+## References
 Corner Centrality of Nodes in Multilayer Networks: A Case Study in the Network Analysis of Keywords.Rosa Rodriguez-Sánchez  and Jorge Chamorro-Padial,    2022 Algorithms 15(10):336 DOI: 10.3390/a15100336
